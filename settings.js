@@ -2,9 +2,9 @@
 //YouTube: @HansTech0
 //Instagram: none
 //Telegram: t.me/@HansTech0
-//GitHub: @Prince-luck
-//WhatsApp: +2347045305132
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@HansTech0
+//GitHub: @HaroldMth
+//WhatsApp: +237696900612
+//want more free bot ? subscribe to my youtube channel: https://youtube.com/@HansTech0
 
 const fs = require('fs')
 const chalk = require('chalk')
